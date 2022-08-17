@@ -1,1 +1,1 @@
-# Coding-Standars-Java
+# CodingStandards
